@@ -1,0 +1,9 @@
+# Ignore log files
+*.log
+
+# Ignore specific files
+readme.md
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
